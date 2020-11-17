@@ -8,7 +8,7 @@ Giving a concept or physical object an name or a notation has been a hard proble
 
 # Notes
 
-ref.bib contains all the reference.
+[ref.bib](ref.bib) contains all the reference.
 
 # Details
 
